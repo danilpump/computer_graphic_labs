@@ -1,0 +1,11 @@
+C:\Users\whati\source\repos\computer_graphic_labs\bin\Debug\computer_graphic_labs.exe.config
+C:\Users\whati\source\repos\computer_graphic_labs\bin\Debug\computer_graphic_labs.exe
+C:\Users\whati\source\repos\computer_graphic_labs\bin\Debug\computer_graphic_labs.pdb
+C:\Users\whati\source\repos\computer_graphic_labs\obj\Debug\computer_graphic_labs.csproj.AssemblyReference.cache
+C:\Users\whati\source\repos\computer_graphic_labs\obj\Debug\computer_graphic_labs.csproj.SuggestedBindingRedirects.cache
+C:\Users\whati\source\repos\computer_graphic_labs\obj\Debug\computer_graphic_labs.Form1.resources
+C:\Users\whati\source\repos\computer_graphic_labs\obj\Debug\computer_graphic_labs.Properties.Resources.resources
+C:\Users\whati\source\repos\computer_graphic_labs\obj\Debug\computer_graphic_labs.csproj.GenerateResource.cache
+C:\Users\whati\source\repos\computer_graphic_labs\obj\Debug\computer_graphic_labs.csproj.CoreCompileInputs.cache
+C:\Users\whati\source\repos\computer_graphic_labs\obj\Debug\computer_graphic_labs.exe
+C:\Users\whati\source\repos\computer_graphic_labs\obj\Debug\computer_graphic_labs.pdb
